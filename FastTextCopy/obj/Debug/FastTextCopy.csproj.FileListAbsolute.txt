@@ -1,0 +1,28 @@
+c:\users\nikita\documents\visual studio 2012\Projects\FastTextCopy\FastTextCopy\bin\Debug\FastTextCopy.exe.config
+c:\users\nikita\documents\visual studio 2012\Projects\FastTextCopy\FastTextCopy\obj\Debug\FastTextCopy.csprojResolveAssemblyReference.cache
+c:\users\nikita\documents\visual studio 2012\Projects\FastTextCopy\FastTextCopy\obj\Debug\FastTextCopy.Form1_Main.resources
+c:\users\nikita\documents\visual studio 2012\Projects\FastTextCopy\FastTextCopy\obj\Debug\FastTextCopy.Properties.Resources.resources
+c:\users\nikita\documents\visual studio 2012\Projects\FastTextCopy\FastTextCopy\obj\Debug\FastTextCopy.csproj.GenerateResource.Cache
+c:\users\nikita\documents\visual studio 2012\Projects\FastTextCopy\FastTextCopy\bin\Debug\FastTextCopy.exe
+c:\users\nikita\documents\visual studio 2012\Projects\FastTextCopy\FastTextCopy\bin\Debug\FastTextCopy.pdb
+c:\users\nikita\documents\visual studio 2012\Projects\FastTextCopy\FastTextCopy\obj\Debug\FastTextCopy.exe
+c:\users\nikita\documents\visual studio 2012\Projects\FastTextCopy\FastTextCopy\obj\Debug\FastTextCopy.pdb
+C:\Other\С#\Готовые работы\FastTextCopy\FastTextCopy\bin\Debug\FastTextCopy.exe.config
+C:\Other\С#\Готовые работы\FastTextCopy\FastTextCopy\obj\Debug\FastTextCopy.exe
+C:\Other\С#\Готовые работы\FastTextCopy\FastTextCopy\obj\Debug\FastTextCopy.pdb
+C:\Other\С#\Готовые работы\FastTextCopy\FastTextCopy\bin\Debug\FastTextCopy.exe
+C:\Other\С#\Готовые работы\FastTextCopy\FastTextCopy\bin\Debug\FastTextCopy.pdb
+C:\Other\С#\Готовые работы\FastTextCopy\FastTextCopy\obj\Debug\FastTextCopy.csprojResolveAssemblyReference.cache
+C:\Other\С#\Готовые работы\FastTextCopy\FastTextCopy\obj\Debug\FastTextCopy.Form1_Main.resources
+C:\Other\С#\Готовые работы\FastTextCopy\FastTextCopy\obj\Debug\FastTextCopy.Properties.Resources.resources
+C:\Other\С#\Готовые работы\FastTextCopy\FastTextCopy\obj\Debug\FastTextCopy.csproj.GenerateResource.Cache
+C:\Other\С#\Проекты\FastTextCopy\FastTextCopy\bin\Debug\FastTextCopy.exe.config
+C:\Other\С#\Проекты\FastTextCopy\FastTextCopy\bin\Debug\FastTextCopy.exe
+C:\Other\С#\Проекты\FastTextCopy\FastTextCopy\bin\Debug\FastTextCopy.pdb
+C:\Other\С#\Проекты\FastTextCopy\FastTextCopy\obj\Debug\FastTextCopy.csprojAssemblyReference.cache
+C:\Other\С#\Проекты\FastTextCopy\FastTextCopy\obj\Debug\FastTextCopy.Form1_Main.resources
+C:\Other\С#\Проекты\FastTextCopy\FastTextCopy\obj\Debug\FastTextCopy.Properties.Resources.resources
+C:\Other\С#\Проекты\FastTextCopy\FastTextCopy\obj\Debug\FastTextCopy.csproj.GenerateResource.cache
+C:\Other\С#\Проекты\FastTextCopy\FastTextCopy\obj\Debug\FastTextCopy.csproj.CoreCompileInputs.cache
+C:\Other\С#\Проекты\FastTextCopy\FastTextCopy\obj\Debug\FastTextCopy.exe
+C:\Other\С#\Проекты\FastTextCopy\FastTextCopy\obj\Debug\FastTextCopy.pdb
